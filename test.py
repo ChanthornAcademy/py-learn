@@ -1,3 +1,9 @@
+# This code takes a two digit number and adds the digits together.
+# two_digit_number is a string that the user inputs
+# first_digit is the first digit of the two digit number
+# second_digit is the second digit of the two digit number
+# two_digit_number is the sum of the first and second digit
+
 two_digit_number = input("Type a two digit number: ")
 
 

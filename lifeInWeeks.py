@@ -1,3 +1,6 @@
+# This code calculates how many days, weeks, and months are left until you turn 90 years old.
+# It then prints the results.
+
 age = input('What is your current age? ')
 # covert string to integer
 age = int(age)

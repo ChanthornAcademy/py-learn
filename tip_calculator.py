@@ -1,3 +1,5 @@
+# this code calculates the tip for a restaurant bill and splits it between a number of people
+
 # spit buill between number of people input, with percentage input
 
 print("Welcome to the tip calculator.")
